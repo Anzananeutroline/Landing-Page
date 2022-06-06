@@ -1,6 +1,6 @@
 
 .body{
-    margin: 4rem 6rem;
+    margin: 4rem 10rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,4 +26,16 @@ button{
     padding: 10px 25px;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.logos{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+}
+.logos img{
+    width: 80px;
+    height: 30px;
 }
