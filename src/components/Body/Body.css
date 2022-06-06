@@ -1,0 +1,29 @@
+
+.body{
+    margin: 4rem 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.larger-text{
+    font-size: 3rem;
+    color: black;
+    font-weight: bold;
+    line-height: 50px;
+    
+}
+
+.content-text{
+    margin: 2rem 0;
+    color: #7f8c8d;
+    font-size: 18px;
+}
+
+button{
+    background-color: black;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
